@@ -180,7 +180,7 @@ home-credit-default-risk/
 **Daram Manohar Reddy**
 - 📧 manoharreddydaram@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/manoharreddydaram)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🐙 [GitHub](https://github.com/manoharreddydaram)
 
 ---
 
