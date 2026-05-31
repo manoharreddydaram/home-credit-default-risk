@@ -124,7 +124,7 @@ A naive model that predicts "repaid" for everyone achieves 92% accuracy — but 
 ### Locally
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/home-credit-default-risk.git
+git clone https://github.com/manoharreddydaram/home-credit-default-risk.git
 cd home-credit-default-risk
 
 # Install dependencies
